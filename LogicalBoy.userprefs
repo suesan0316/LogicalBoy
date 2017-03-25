@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Model/Command.cs">
+    <Files>
+      <File FileName="Assets/Model/CPU.cs" Line="19" Column="1" />
+      <File FileName="Assets/Model/Frame.cs" Line="17" Column="1" />
+      <File FileName="Assets/Model/Disk.cs" Line="15" Column="45" />
+      <File FileName="Assets/Model/Module.cs" Line="14" Column="1" />
+      <File FileName="Assets/Util/DataReader.cs" Line="8" Column="27" />
+      <File FileName="Assets/Util/Testing.cs" Line="29" Column="18" />
+      <File FileName="Assets/Model/Memory.cs" Line="18" Column="2" />
+      <File FileName="Assets/Model/Command.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/spare-me-the-details/Desktop/MyProject/LogicalBoy/Assets/Util/Testing.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
